@@ -15,3 +15,20 @@ H:\My Drive\CSharp\bigProj\INF2011-Group-17\WindowsFormsApp1\obj\Debug\WindowsFo
 H:\My Drive\CSharp\bigProj\INF2011-Group-17\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
 H:\My Drive\CSharp\bigProj\INF2011-Group-17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 H:\My Drive\CSharp\bigProj\INF2011-Group-17\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\bin\Debug\Hotel System.mdf
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\bin\Debug\Hotel System_log.ldf
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\bin\Debug\AMRConnector.dll
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.HomePage.resources
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LoginForm.resources
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Presentation.ClientLogic.resources
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Presentation.ReservationsLogic.resources
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\My Drive\infos 2nd yr\CSharp\Database proj\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

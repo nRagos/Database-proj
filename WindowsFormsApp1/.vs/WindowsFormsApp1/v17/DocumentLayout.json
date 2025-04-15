@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|h:\\my drive\\csharp\\bigproj\\inf2011-group-17\\windowsformsapp1\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|h:\\my drive\\infos 2nd yr\\csharp\\database proj\\windowsformsapp1\\data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|solutionrelative:data\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\forms\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\forms\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|solutionrelative:forms\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\presentation\\clientlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\presentation\\clientlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{947FF525-D759-4AEB-B54B-1562519E4B0B}|WindowsFormsApp1.csproj|solutionrelative:presentation\\clientlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DB.cs",
-              "DocumentMoniker": "H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\Data\\DB.cs",
+              "DocumentMoniker": "H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\Data\\DB.cs",
               "RelativeDocumentMoniker": "Data\\DB.cs",
-              "ToolTip": "H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\Data\\DB.cs",
+              "ToolTip": "H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\Data\\DB.cs",
               "RelativeToolTip": "Data\\DB.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,9 +49,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomePage.cs",
-              "DocumentMoniker": "H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\Forms\\HomePage.cs",
+              "DocumentMoniker": "H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\Forms\\HomePage.cs",
               "RelativeDocumentMoniker": "Forms\\HomePage.cs",
-              "ToolTip": "H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\Forms\\HomePage.cs",
+              "ToolTip": "H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\Forms\\HomePage.cs",
               "RelativeToolTip": "Forms\\HomePage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,9 +62,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ClientLogic.cs [Design]",
-              "DocumentMoniker": "H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\Presentation\\ClientLogic.cs",
+              "DocumentMoniker": "H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\Presentation\\ClientLogic.cs",
               "RelativeDocumentMoniker": "Presentation\\ClientLogic.cs",
-              "ToolTip": "H:\\My Drive\\CSharp\\bigProj\\INF2011-Group-17\\WindowsFormsApp1\\Presentation\\ClientLogic.cs [Design]",
+              "ToolTip": "H:\\My Drive\\infos 2nd yr\\CSharp\\Database proj\\WindowsFormsApp1\\Presentation\\ClientLogic.cs [Design]",
               "RelativeToolTip": "Presentation\\ClientLogic.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-09T18:45:48.072Z",
