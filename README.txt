@@ -19,6 +19,22 @@ Key tables/ER Diagram:
 - Rooms
 - Users
 
+How to Run:
+1. Clone repo
+2. Open in Visual Studio 2022 and Run
+3. Enter in the User name "Gabriel" and password "CHTGAB002" both are case sensitive
+
+What I've learned:
+- Connecting C# to a database
+- Writing SQL queries
+- Handling real-world data operations
+- Structuring code for maintainability
+
+Possible future Improvements:
+- Improve UI
+- Connect to an API or host online
+- Host SQL server online rather than locally
+
 
 
 
