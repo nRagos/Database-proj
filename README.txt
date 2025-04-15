@@ -14,7 +14,7 @@ technologies used include:
 -Windows Forms 
 
 Key tables/ER Diagram:
-![Booking Form Screenshot](System%20Specifications/Entity%20Relations%20Model%203NF%20(First%20draft)/ER.png)
+![Booking Form Screenshot](Database-proj/System%20Specifications/Entity%20Relations%20Model%203NF%20(First%20draft)/ER.png)
 
 
 
