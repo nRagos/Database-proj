@@ -1,0 +1,1 @@
+﻿alter table Rooms drop column cost

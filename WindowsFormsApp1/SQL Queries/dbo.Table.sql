@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Rooms] (
+    [RoomID] NVARCHAR (20) NOT NULL,
+    PRIMARY KEY CLUSTERED ([RoomID] ASC)
+);
